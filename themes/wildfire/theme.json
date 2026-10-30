@@ -10,12 +10,13 @@
   "accent": "#ff4420"
  },
  "type": {
-  "font": "mono"
+  "fontFile": "DiskoPhonic-Regular.ttf"
  },
  "clock": {
   "layout": "stack",
-  "scale": 2.1,
-  "dateScale": 1.1
+  "align": "center",
+  "scale": 2.5,
+  "dateScale": 1.3
  },
  "dock": {
   "count": 6,
