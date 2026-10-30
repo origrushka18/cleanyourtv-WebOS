@@ -15,6 +15,7 @@
  "clock": {
   "layout": "stack",
   "align": "center",
+  "style": "glass",
   "scale": 2.5,
   "dateScale": 1.3
  },
