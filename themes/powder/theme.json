@@ -1,0 +1,30 @@
+{
+ "name": "Powder",
+ "author": "Grushka",
+ "description": "A phone-style lock screen for ski and snowboard photography: a small clock top-left and a glass dock low in the corner, in deep night-blue with a sunset-orange accent.",
+ "extends": "lockscreen",
+ "colors": {
+  "night": "#0a0e16",
+  "panel": "#141c2c",
+  "ink": "#e8f2ff",
+  "accent": "#ff8a42"
+ },
+ "type": {
+  "font": "serif"
+ },
+ "clock": {
+  "scale": 1.9,
+  "dateScale": 1.05
+ },
+ "dock": {
+  "tileAlpha": 0.78,
+  "tileFrost": 0.55,
+  "tileFrostColor": "#ffb066",
+  "panel": 0.22
+ },
+ "effects": {
+  "wallpaper": "powder.jpg",
+  "wallpaperDim": 0.3
+ },
+ "slots": []
+}

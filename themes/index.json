@@ -86,6 +86,13 @@
    "preview": "pixel/preview.jpg"
   },
   {
+   "id": "powder",
+   "name": "Powder",
+   "author": "Grushka",
+   "description": "A phone-style lock screen for ski and snowboard photography: a small clock top-left and a glass dock low in the corner, in deep night-blue with a sunset-orange accent.",
+   "preview": "powder/preview.jpg"
+  },
+  {
    "id": "still",
    "name": "Still",
    "author": "CleanYourTV",
