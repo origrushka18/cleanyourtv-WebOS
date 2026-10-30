@@ -19,7 +19,7 @@
  "dock": {
   "w": 190,
   "h": 142,
-  "tileAlpha": 1,
+  "tileAlpha": 0.55,
   "tileFrost": 0,
   "panel": 0.3,
   "panelPad": 24
