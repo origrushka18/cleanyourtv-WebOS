@@ -1,0 +1,38 @@
+{
+ "name": "Wildfire",
+ "author": "Grushka",
+ "description": "A phone-style lock screen built around bold folk-art fire illustration: a small clock top-left and a solid glass dock low in the corner, in deep near-black maroon with a flame-orange accent.",
+ "extends": "lockscreen",
+ "colors": {
+  "night": "#140505",
+  "panel": "#2a0e0a",
+  "ink": "#fff6ea",
+  "accent": "#ff4420"
+ },
+ "type": {
+  "font": "mono"
+ },
+ "clock": {
+  "layout": "stack",
+  "scale": 2.1,
+  "dateScale": 1.1
+ },
+ "dock": {
+  "count": 6,
+  "w": 150,
+  "h": 112,
+  "tileAlpha": 1,
+  "tileFrost": 0,
+  "panel": 0.55,
+  "panelPad": 22
+ },
+ "tile": {
+  "border": 0.25
+ },
+ "effects": {
+  "wallpaper": "wildfire.jpg",
+  "wallpaperDim": 0.55,
+  "glowColor": "accent"
+ },
+ "slots": []
+}

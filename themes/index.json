@@ -105,6 +105,13 @@
    "author": "CleanYourTV",
    "description": "Brown and amber with the glow in the accent colour.",
    "preview": "warm/preview.jpg"
+  },
+  {
+   "id": "wildfire",
+   "name": "Wildfire",
+   "author": "Grushka",
+   "description": "A phone-style lock screen built around bold folk-art fire illustration: a small clock top-left and a solid glass dock low in the corner, in deep near-black maroon with a flame-orange accent.",
+   "preview": "wildfire/preview.jpg"
   }
  ]
 }
