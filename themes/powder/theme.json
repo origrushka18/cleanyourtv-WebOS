@@ -10,19 +10,21 @@
   "accent": "#ff8a42"
  },
  "type": {
-  "font": "serif"
+  "font": "mono"
  },
  "clock": {
-  "scale": 1.9,
-  "dateScale": 1.05
+  "layout": "stack",
+  "scale": 2.28,
+  "dateScale": 1.15
  },
  "dock": {
-  "w": 190,
-  "h": 142,
-  "tileAlpha": 0.55,
+  "count": 6,
+  "w": 150,
+  "h": 112,
+  "tileAlpha": 0.2,
   "tileFrost": 0,
   "panel": 0.3,
-  "panelPad": 24
+  "panelPad": 20
  },
  "effects": {
   "wallpaper": "powder.jpg",
