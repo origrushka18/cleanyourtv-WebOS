@@ -31,7 +31,7 @@
  },
  "effects": {
   "wallpaper": "wildfire.jpg",
-  "wallpaperDim": 0.55,
+  "wallpaperDim": 0.25,
   "glowColor": "accent"
  },
  "slots": []
