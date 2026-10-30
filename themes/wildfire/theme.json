@@ -31,6 +31,9 @@
  "tile": {
   "border": 0.25
  },
+ "shelf": {
+  "show": false
+ },
  "effects": {
   "wallpaper": "wildfire2.jpg",
   "wallpaperDim": 0.05,
