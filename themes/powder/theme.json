@@ -17,10 +17,12 @@
   "dateScale": 1.05
  },
  "dock": {
-  "tileAlpha": 0.78,
-  "tileFrost": 0.55,
-  "tileFrostColor": "#ffb066",
-  "panel": 0.22
+  "w": 190,
+  "h": 142,
+  "tileAlpha": 1,
+  "tileFrost": 0,
+  "panel": 0.3,
+  "panelPad": 24
  },
  "effects": {
   "wallpaper": "powder.jpg",
